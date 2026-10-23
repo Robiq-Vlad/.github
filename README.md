@@ -1,0 +1,2 @@
+# .github
+Descrierea organizatiei noastre
